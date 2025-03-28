@@ -1,0 +1,29 @@
+{
+    "info": {
+      "_postman_id": "12345678-1234-5678-1234-567812345678",
+      "name": "Teste API Presidente",
+      "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "item": [
+      {
+        "name": "Buscar Presidentes",
+        "request": {
+          "method": "GET",
+          "header": [],
+          "url": {
+            "raw": "http://127.0.0.1:8000/buscar_presidente",
+            "protocol": "http",
+            "host": [
+              "127.0.0.1"
+            ],
+            "port": "8000",
+            "path": [
+              "buscar_presidente"
+            ]
+          }
+        },
+        "response": []
+      }
+    ]
+  }
+  
