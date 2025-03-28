@@ -21,11 +21,12 @@ Copie e cole no browser do navegador:
 ```
 http://127.0.0.1:8000/buscar_presidente
 ```
-#### 💡 Swagger UI: Testar a documentação automática
-Copie e cole no browser do navegador:
-```
-http://127.0.0.1:8000/docs#/
-```
+#### 💡 Testar a documentação automática
+Clique para executar no navegador:
+
+[Swagger UI](http://127.0.0.1:8000/docs#/)
+
+[Redoc](http://127.0.0.1:8000/redoc)
 - Clique no Botão GET
 - Clique no Botão Try it out
 - Clique no Botão Execute
