@@ -27,5 +27,3 @@ http://127.0.0.1:8000/docs#/
 - Clique no Botão Try it out
 - Clique no Botão Execute
 - Clique no Botão Download
-
-  ✅☑️
