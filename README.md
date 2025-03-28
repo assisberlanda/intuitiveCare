@@ -1,6 +1,7 @@
-# intuitiveCare - Teste de Nivelamento v.250321
+# 🌐 intuitiveCare
+✨ Teste de Nivelamento v.250321
 
-### Testar se o FastAPI está rodando
+### ✅ Testar se o FastAPI está rodando
 No terminal, dentro da pasta onde está main.py, execute:
 ```
 uvicorn main:app --reload
@@ -18,7 +19,7 @@ http://localhost:8080/
 ```
 http://127.0.0.1:8000/buscar_presidente
 ```
-#### Testar a documentação automática - Copie e cole no browser do navegador:
+#### 💡 Testar a documentação automática - Copie e cole no browser do navegador:
 ```
 http://127.0.0.1:8000/docs#/
 ```
@@ -26,3 +27,5 @@ http://127.0.0.1:8000/docs#/
 - Clique no Botão Try it out
 - Clique no Botão Execute
 - Clique no Botão Download
+
+  ✅☑️
