@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "9a5edf29-70e6-4afd-9f11-677ea1de11b7",
+		"name": "Teste API Presidente",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36581253",
+		"_collection_link": "https://assis6.postman.co/workspace/TestApi~f7eebba3-3c72-4a72-8619-43698dd9225b/collection/36581253-9a5edf29-70e6-4afd-9f11-677ea1de11b7?action=share&source=collection_link&creator=36581253"
+	},
+	"item": [
+		{
+			"name": "Buscar Presidentes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/buscar_presidente",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"buscar_presidente"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
