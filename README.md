@@ -6,7 +6,7 @@
 |:-:|:-:|:-:|:-:|
 | [web_scraping.py](https://github.com/assisberlanda/intuitiveCare/blob/main/web_scraping.py) | [change_data.py](https://github.com/assisberlanda/intuitiveCare/blob/main/change_data.py) | <br> [demonstracoes_contabeis.sql](https://github.com/assisberlanda/intuitiveCare/blob/main/demonstracoes_contabeis.sql) <br><br> [operadoras_ativas.sql](https://github.com/assisberlanda/intuitiveCare/blob/main/operadoras_ativas.sql) | [PresidentSearch.vue](https://github.com/assisberlanda/intuitiveCare/blob/main/president_search/src/components/PresidentSearch.vue)|
 | [Anexos I e II](https://github.com/assisberlanda/intuitiveCare/tree/main/web_scraping) | [Teste_assis_berlanda.zip](https://github.com/assisberlanda/intuitiveCare/tree/main/test_table) | <br> [demonstracoes_contabeis/2023](https://github.com/assisberlanda/intuitiveCare/tree/main/data_base/demonstracoes_contabeis%3A2023) <br><br> [demonstracoes_contabeis/2024](https://github.com/assisberlanda/intuitiveCare/tree/main/data_base/demonstracoes_contabeis%3A2024) <br><br> [Relatorio_cadop.csv](https://github.com/assisberlanda/intuitiveCare/blob/main/data_base/Relatorio_cadop.csv)| [Teste API](https://github.com/assisberlanda/intuitiveCare/tree/main/test_api) <br><br> [postman_collection.json](https://github.com/assisberlanda/intuitiveCare/blob/main/test_api/postman_collection.json) |
-### 📌 Testar se o FastAPI está rodando
+### 📌 Iniciando o Ambiente de Desenvolvimento Front-end e Back-end
 No terminal, dentro da pasta president_search onde está main.py, execute:
 ```
 uvicorn main:app --reload
@@ -15,7 +15,7 @@ Abra outro terminal, dentro da pasta president_search onde está main.py, execut
 ```
 npm run serve
 ```
-### ✅ Testar a aplicação
+### ✅ Iniciando a Aplicação
 Abra o link abaixo ou cole no navegador:
 
 [http://localhost:8080/](http://localhost:8080/)
