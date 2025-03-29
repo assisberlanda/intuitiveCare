@@ -1,6 +1,11 @@
 # 🌐 intuitiveCare
 ✨ Teste de Nivelamento v.250321
 
+## Testes desenvolvido:
+| Web Scrapping | Transformação de Dados | Banco de Dados | API |
+|:-:|:-:|:-:|:-:|
+| [Código Python](https://github.com/assisberlanda/intuitiveCare/blob/main/web_scraping.py) | [Código Python](https://github.com/assisberlanda/intuitiveCare/blob/main/change_data.py) | Código SQL [Contábeis](https://github.com/assisberlanda/intuitiveCare/blob/main/demonstracoes_contabeis.sql) [Operadoras](https://github.com/assisberlanda/intuitiveCare/blob/main/operadoras_ativas.sql) | [Código VUE]() |
+| Download Anexos | Download Teste | Download Banco Dados | Teste API |
 ### ✅ Testar se o FastAPI está rodando
 No terminal, dentro da pasta onde está main.py, execute:
 ```
