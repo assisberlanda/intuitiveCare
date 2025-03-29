@@ -1,11 +1,11 @@
 # 🌐 intuitiveCare
 ✨ Teste de Nivelamento v.250321
 
-## Testes desenvolvido:
+## Testes desenvolvidos
 | Web Scrapping | Transformação de Dados | Banco de Dados | API |
 |:-:|:-:|:-:|:-:|
-| [Código Python](https://github.com/assisberlanda/intuitiveCare/blob/main/web_scraping.py) | [Código Python](https://github.com/assisberlanda/intuitiveCare/blob/main/change_data.py) | Código SQL [Contábeis](https://github.com/assisberlanda/intuitiveCare/blob/main/demonstracoes_contabeis.sql) [Operadoras](https://github.com/assisberlanda/intuitiveCare/blob/main/operadoras_ativas.sql) | [Código VUE]() |
-| Download Anexos | Download Teste | Download Banco Dados | Teste API |
+| [web_scraping.py](https://github.com/assisberlanda/intuitiveCare/blob/main/web_scraping.py) | [change_data.py](https://github.com/assisberlanda/intuitiveCare/blob/main/change_data.py) | <br> [demonstracoes_contabeis.sql](https://github.com/assisberlanda/intuitiveCare/blob/main/demonstracoes_contabeis.sql) <br><br> [operadoras_ativas.sql](https://github.com/assisberlanda/intuitiveCare/blob/main/operadoras_ativas.sql) | [PresidentSearch.vue](https://github.com/assisberlanda/intuitiveCare/blob/main/president_search/src/components/PresidentSearch.vue)|
+| [Anexos I e II](https://github.com/assisberlanda/intuitiveCare/tree/main/web_scraping) | [Teste_assis_berlanda.zip](https://github.com/assisberlanda/intuitiveCare/tree/main/test_table) | <br> [demonstracoes_contabeis/2023](https://github.com/assisberlanda/intuitiveCare/tree/main/data_base/demonstracoes_contabeis%3A2023) <br><br> [demonstracoes_contabeis/2024](https://github.com/assisberlanda/intuitiveCare/tree/main/data_base/demonstracoes_contabeis%3A2024) <br><br> [Relatorio_cadop.csv](https://github.com/assisberlanda/intuitiveCare/blob/main/data_base/Relatorio_cadop.csv)| [Teste API](https://github.com/assisberlanda/intuitiveCare/tree/main/test_api) <br><br> [postman_collection.json](https://github.com/assisberlanda/intuitiveCare/blob/main/test_api/postman_collection.json) |
 ### ✅ Testar se o FastAPI está rodando
 No terminal, dentro da pasta onde está main.py, execute:
 ```
